@@ -1,11 +1,11 @@
-Introduction
+Introduction:
 This is script is created for students studying in Singapore's Nanyang Technological University.
 There's this thing called the STARWARS where students have to fight to register for their courses. Every second matters.
 There are times when you failed to register for some of your courses during STARWARS, even after loading all 3 saved plans.
 What do you do? Panic and randomly try out every single option of the course and pray that they succeed without clashing with your already registered courses?
 Hence this script is written for you to overcome that situation.
 
-How to use the script
+How to use the script:
 1. run the script
 2. you will be asked to enter the courses you want to register
 3. you will then enter the main menu, which you will be greeted with 7 options:
@@ -17,7 +17,7 @@ How to use the script
         6. Save: Saves your progress so that you can come back to it next time.
         7. Exit: Exits planner
 
-Suggested way of using
+Suggested way of using:
 Once you execute your script and navigate to step 3(main menu), you should store your 3 plans(Option 2).
 It will ask for your class indexes for the courses you are registering for. After keying in your indexes, you will be returned to the main menu. If you want to store the other 2 plans, just choose option 2 again 2 more times. After which, you may want to choose option 3 to ensure that you have keyed in the correct indexes. If you want to make changes to the class index, you will have to choose option 4 in the main menu and start all over again.
 Once you are done hit the save button(option 6) then exit(option 7) and come back to it on the actual STARWARS date.
