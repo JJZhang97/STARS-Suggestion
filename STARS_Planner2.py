@@ -242,7 +242,7 @@ if __name__ == "__main__":
         
         except FileNotFoundError:
             star.get_courses()
-            star.l_courses = STARS_mod_request.load_courses()
+            star.l_courses = STARS_mod_request.load_courses(star.list_courses)
         
         gate_2 = True
         while gate_2:
