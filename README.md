@@ -1,6 +1,3 @@
-This project is still currently work-in-progress and is not yet ready to use.
-If you want to use, please read the last paragraph under "NOTE!!!"
-
 Introduction
 This is script is created for students studying in Singapore's Nanyang Technological University.
 There's this thing called the STARWARS where students have to fight to register for their courses. Every second matters.
@@ -35,12 +32,3 @@ After which you will be shown 3 options:
         1. Accepted plan and failed courses: Accepts plan, and prompts you for courses you have failed to register
         2. Suggest New Plan: Suggests new plan if you don't like the current one
         3. Exit: Exit to main menu
-
-NOTE!!!
-Work-in-progress Module: STARS_mod_request.py
-Currently this script cannot really be used as it relies on STARS_mod_request.py.
-The aim of STARS_mod_request.py is to go to https://wish.wis.ntu.edu.sg/webexe/owa/aus_schedule.main to scrape for information and return the timeslots of the given courses.
-(I am still trying to learn and figure a way out.)
-
-If you want to go ahead and use, please enter the timeslots into this module in the sample format as shown in the module:
-"class_index - 3_lettter_weekday - 24hrs_from_time - 24hrs_to_time"
